@@ -41,9 +41,10 @@ html {
 body {
     max-width: 100%;
     overflow-x: hidden;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Light';
-    transition: .3s;
+    transition: 0s;
+    color: #444242;
 }
 
 img {
@@ -58,7 +59,7 @@ p {
 
 .wrapper {
     height: 100%;
-    max-width: 1200px;
+    max-width: 1000px;
     width: 95%;
     margin: 0 auto;
 }
